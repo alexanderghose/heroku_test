@@ -1,0 +1,7 @@
+# these are files we DONT want to push to git
+
+.env
+secretpasswords.txt
+passwords.txt
+secretinfo.txt
+austin.txt
